@@ -1,0 +1,3 @@
+/home/lp-debian-artem/Elŝutoj/C++/hw_1_Thomas_Alg/build/CMakeFiles/app.dir
+/home/lp-debian-artem/Elŝutoj/C++/hw_1_Thomas_Alg/build/CMakeFiles/edit_cache.dir
+/home/lp-debian-artem/Elŝutoj/C++/hw_1_Thomas_Alg/build/CMakeFiles/rebuild_cache.dir
